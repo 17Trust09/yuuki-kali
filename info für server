@@ -1,0 +1,13 @@
+mkdir -p ~/.config/autostart
+
+
+nano ~/.config/autostart/bot_watchdog.desktop
+
+
+[Desktop Entry]
+Name=Bot Watchdog
+Comment=Startet den Bot-Watchdog bei Systemstart
+Exec=xfce4-terminal --title="Bot Watchdog" --command="bash -c 'cd /home/kali/Desktop/Botv2 && source venv/bin/activate && python bot_watchdog.py; exec bash'"
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true

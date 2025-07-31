@@ -1,0 +1,543 @@
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.3.4 - 2024-07-28
+(released)
+
+Neue Funktionen:
+- discord_errors.log
+- mention_listener
+- Reminder
+- Poll erstellen
+- Cog Manager für Owner
+- RSS Manager
+- OpenAI
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+- on_member_join ist jetzt optisch ansprechender
+- Todo überarbeiter gibt jetzt die Option "In Bearbeitung"
+- welcome Channel setup zum setzen der Channel ID (nicht mehr Statisch)
+- Level System dynamisch machen / Channel ID setup für einen bestimmten Channel
+- Poll Channel setup zum posten von Poll
+
+
+
+Bugfixes:
+- bot_status_cog.py würde angepasst und läuft wieder
+- reminder Rerror Fixed
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+
+
+
+Info Starflight:
+main.py wurde bearbeitet
+
+
+Am Arbeiten an:
+- Giveaway
+    -Endet In wird nicht aktualisiert
+    -giveaway Channel setup zum posten von giveaways
+- Einbettungen
+- Birthday
+    - Datum checken für den bday. welches jahr
+
+- ServerStats.py
+    -Twitch (testen)
+    -TikTok
+    -Twitter (testen)
+    -Youtube (testen)
+    -Reddit
+    -Instagram
+    -RSS Feed
+    -Kick
+    -Online Memeber entfernen oder in echtzeit
+
+- database.py angepasst
+
+
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.3.3 - 2024-07-17
+(released)
+
+Neue Funktionen:
+- mention_listener
+- Reminder
+- Poll erstellen
+- Cog Manager für Owner
+- RSS Manager
+- OpenAI
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+- on_member_join ist jetzt optisch ansprechender
+- Todo überarbeiter gibt jetzt die Option "In Bearbeitung"
+- welcome Channel setup zum setzen der Channel ID (nicht mehr Statisch)
+- Level System dynamisch machen / Channel ID setup für einen bestimmten Channel
+- Poll Channel setup zum posten von Poll
+
+
+
+Bugfixes:
+- bot_status_cog.py würde angepasst und läuft wieder
+- reminder Rerror Fixed
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+
+
+
+Info Starflight:
+main.py wurde bearbeitet
+
+
+Am Arbeiten an:
+- Giveaway
+    -Endet In wird nicht aktualisiert
+    -giveaway Channel setup zum posten von giveaways
+- Einbettungen
+- Birthday
+    - Datum checken für den bday. welches jahr
+
+- ServerStats.py
+    -Twitch (testen)
+    -TikTok
+    -Twitter (testen)
+    -Youtube (testen)
+    -Reddit
+    -Instagram
+    -RSS Feed
+    -Kick
+    -Online Memeber entfernen oder in echtzeit
+
+- database.py angepasst
+
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.3.2 - 2024-06-03
+(released)
+
+Neue Funktionen:
+- Reminder
+- Poll erstellen
+- Cog Manager für Owner
+- RSS Manager
+- OpenAI
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+- on_member_join ist jetzt optisch ansprechender
+- Todo überarbeiter gibt jetzt die Option "In Bearbeitung"
+- welcome Channel setup zum setzen der Channel ID (nicht mehr Statisch)
+- Level System dynamisch machen / Channel ID setup für einen bestimmten Channel
+- Poll Channel setup zum posten von Poll
+
+
+
+Bugfixes:
+- bot_status_cog.py würde angepasst und läuft wieder
+- reminder Rerror Fixed
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+
+
+
+Info Starflight:
+main.py wurde bearbeitet
+
+
+Am Arbeiten an:
+- Giveaway
+    -Endet In wird nicht aktualisiert
+    -giveaway Channel setup zum posten von giveaways
+- Einbettungen
+- Birthday
+    - Datum checken für den bday. welches jahr
+
+- ServerStats.py
+    -Twitch (testen)
+    -TikTok
+    -Twitter (testen)
+    -Youtube (testen)
+    -Reddit
+    -Instagram
+    -RSS Feed
+    -Kick
+    -Online Memeber entfernen oder in echtzeit
+
+- database.py angepasst
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.3.1 - 2024-05-19
+(released)
+
+Neue Funktionen:
+- Reminder
+- Poll erstellen
+- Cog Manager für Owner
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+- on_member_join ist jetzt optisch ansprechender
+- Todo überarbeiter gibt jetzt die Option "In Bearbeitung"
+- welcome Channel setup zum setzen der Channel ID (nicht mehr Statisch)
+- Level System dynamisch machen / Channel ID setup für einen bestimmten Channel
+- Poll Channel setup zum posten von Poll
+
+
+Bugfixes:
+- bot_status_cog.py würde angepasst und läuft wieder
+- reminder Rerror Fixed
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+
+
+
+Info Starflight:
+main.py wurde bearbeitet
+
+
+Am Arbeiten an:
+- Giveaway
+    -Endet In wird nicht aktualisiert
+    -giveaway Channel setup zum posten von giveaways
+- Einbettungen
+- Reminder
+- Birthday
+    - Datum checken für den bday. welches jahr
+
+- ServerStats.py
+    -Twitch (testen)
+    -TikTok
+    -Twitter (testen)
+    -Youtube (testen)
+    -Reddit
+    -Instagram
+    -RSS Feed
+    -Kick
+    -Online Memeber entfernen oder in echtzeit
+
+- database.py angepasst
+
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.3.0 - 2023-12-30
+(released)
+
+Neue Funktionen:
+- Neue Funktion im Level System. Online sein bringt jetzt XP
+- Poll erstellen
+- Cog Manager für Owner
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+- on_member_join ist jetzt optisch ansprechender
+- Todo überarbeiter gibt jetzt die Option "In Bearbeitung"
+- welcome Channel setup zum setzen der Channel ID (nicht mehr Statisch)
+- Level System dynamisch machen / Channel ID setup für einen bestimmten Channel
+- Poll Channel setup zum posten von Poll
+
+
+Bugfixes:
+- Todo Listen werden wieder gespeichert und können geändert werden
+- Korrektur von Textfehlern
+- Korrektur von XP vergabe nach Zeit
+- todo aktuallisiert die "!edit_todo 1183677867280834590" ID zur neuen ID
+- Todo Followup prefix nicht dynamisch
+- anti spam (rollen wegnahme)
+- Ticket system jetzt dynamisch
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+
+
+Info Starflight:
+main.py wurde bearbeitet
+
+
+Am Arbeiten an:
+- Giveaway
+    -Endet In wird nicht aktualisiert
+    -giveaway Channel setup zum posten von giveaways
+- Einbettungen
+- Reminder
+- Birthday
+    - Datum checken für den bday. welches jahr
+
+- ServerStats.py
+    -Twitch (testen)
+    -TikTok
+    -Twitter (testen)
+    -Youtube (testen)
+    -Reddit
+    -Instagram
+    -RSS Feed
+    -Kick
+    -Online Memeber entfernen oder in echtzeit
+
+- database.py angepasst
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.2.5 - 2023-12-30
+
+Neue Funktionen:
+- Neue Funktion im Level System. Online sein bringt jetzt XP
+- Poll erstellen
+- Cog Manager für Owner
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+- on_member_join ist jetzt optisch ansprechender
+- Todo überarbeiter gibt jetzt die Option "In Bearbeitung"
+- welcome Channel setup zum setzen der Channel ID (nicht mehr Statisch)
+- Level System dynamisch machen / Channel ID setup für einen bestimmten Channel
+
+
+Bugfixes:
+- Todo Listen werden wieder gespeichert und können geändert werden
+- Korrektur von Textfehlern
+- Korrektur von XP vergabe nach Zeit
+- todo aktuallisiert die "!edit_todo 1183677867280834590" ID zur neuen ID
+- Todo Followup prefix nicht dynamisch
+- anti spam (rollen wegnahme)
+- Ticket system jetzt dynamisch
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+
+
+Info Starflight:
+main.py wurde bearbeitet
+
+
+Am Arbeiten an:
+- Poll Channel setup zum posten von Poll
+- Giveaway
+    -Endet In wird nicht aktualisiert
+    -giveaway Channel setup zum posten von giveaways
+- Einbettungen
+- Reminder
+- Birthday
+    - Datum checken für den bday. welches jahr
+
+- ServerStats.py
+    -Twitch (testen)
+    -TikTok
+    -Twitter (testen)
+    -Youtube (testen)
+    -Reddit
+    -Instagram
+    -RSS Feed
+    -Kick
+    -Online Memeber entfernen oder in echtzeit
+
+- database.py angepasst
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.2.4 - 2023-12-29
+
+Neue Funktionen:
+- Neue Funktion im Level System. Online sein bringt jetzt XP
+- Poll erstellen
+- Cog Manager für Owner
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+- on_member_join ist jetzt optisch ansprechender
+
+
+Bugfixes:
+- Todo Listen werden wieder gespeichert und können geändert werden
+- Korrektur von Textfehlern
+- Korrektur von XP vergabe nach Zeit
+- todo aktuallisiert die "!edit_todo 1183677867280834590" ID zur neuen ID
+- Todo Followup prefix nicht dynamisch
+- anti spam (rollen wegnahme)
+- Ticket system jetzt dynamisch
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+- CogManagement noch nicht abrufbar, keine Anzeige welche ich gibt und wleche aktive sind
+
+Info Starflight:
+main.py wurde bearbeitet
+
+
+Am Arbeiten an:
+- Einbettungen
+- Reminder
+- Giveaway
+    -Endet In wird nicht aktualisiert
+    -Channel setup
+- Birthday
+    - Datum checken für den bday. welches jahr
+
+- ServerStats.py
+    -Twitch (testen)
+    -TikTok
+    -Twitter (testen)
+    -Youtube (testen)
+    -Reddit
+    -Instagram
+    -RSS Feed
+    -Kick
+    -Online Memeber entfernen oder in echtzeit
+
+- database.py angepasst
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.2.3 - 2023-12-24
+
+Neue Funktionen:
+- Neue Funktion im Level System. Online sein bringt jetzt XP
+
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+
+
+Bugfixes:
+- Todo Listen werden wieder gespeichert und können geändert werden
+- Korrektur von Textfehlern
+- Korrektur von XP vergabe nach Zeit
+- todo aktuallisiert die "!edit_todo 1183677867280834590" ID zur neuen ID
+- Todo Followup prefix nicht dynamisch
+- anti spam (rollen wegnahme)
+- Ticket system jetzt dynamisch
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+- CogManagement noch nicht abrufbar, keine Anzeige welche ich gibt und welche aktive sind
+
+Info Starflight:
+main.py nicht bearbeitet
+
+Am Arbeiten an:
+- ServerStats.py
+    -Twitch update geht noch nicht für Follower
+    -Online Memeber entfernen oder in echtzeit
+- database.py angepasst
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.2.2 - 2023-12-12
+
+Neue Funktionen:
+- Neue Funktion im Level System. Online sein bringt jetzt XP
+
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+- ChangeLog wurde dem Bot angehängt
+
+
+Bugfixes:
+- Todo Listen werden wieder gespeichert und können geändert werden
+- Korrektur von Textfehlern
+- Korrektur von XP vergabe nach Zeit
+- todo aktuallisiert die "!edit_todo 1183677867280834590" ID zur neuen ID
+
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+- CogManagement noch nicht abrufbar, keine Anzeige welche ich gibt und wleche aktive sind
+
+
+Am Arbeiten an:
+- ServerStats.py
+    -Twitch update geht noch nicht für Follower
+    -Online Memeber entfernen oder in echtzeit
+- database.py angepasst
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+
+Version 1.2.1 - 2023-12-10
+
+Neue Funktionen:
+- Neue Funktion im Level System. Online sein bringt jetzt XP
+
+
+Verbesserungen:
+- Neue Strukturierung des Help Systems
+- Live Checker ändert jetzt den Bot Status schneller
+
+
+Bugfixes:
+- Todo Listen werden wieder gespeichert und können geändert werden
+- Korrektur von Textfehlern
+- Korrektur von XP vergabe nach Zeit
+
+Bekannte Probleme:
+- Todo Liste speichert sich immer noch nur als .txt
+- CogManagement noch nicht abrufbar, keine Anzeige welche ich gibt und wleche aktive sind
+
+
+Am Arbeiten an:
+- ServerStats.py
+Twitch update geht noch nicht für Follower
+Online Memeber entfernen oder in echtzeit
+- database.py angepasst
+
+- todo aktuallisiert die !edit_todo 1183677867280834590  ID nicht zur neuen ID
+
+
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+####################################################################################################################################################################################################################################
+

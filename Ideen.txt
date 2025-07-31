@@ -1,0 +1,35 @@
+Administrativ:
+
+
+
+
+Moderation:
+
+-Mute, Kick und Bann: Ermögliche das schnelle Stummschalten, Kicken oder Sperren von Benutzern, die gegen Serverregeln verstoßen.
+
+-Profanity Filter: Filtere unangemessene oder beleidigende Sprache in Nachrichten.
+
+-Überprüfung von Nachrichten: Erlaube Moderatoren, Nachrichten zu überprüfen, bevor sie im Chat erscheinen.
+
+-Auftragserteilung: Die Möglichkeit für Moderatoren, Aufträge an den Bot zu erteilen, um bestimmte Aktionen auszuführen, z.B. das Erstellen eines temporären Sprachkanals.
+
+-Umfragen und Abstimmungen: Der Bot kann Abstimmungen und Umfragen erstellen und verfolgen.
+
+-Zeitgesteuerte Aktionen: Planung von automatischen Aktionen wie Nachrichtenlöschung oder Kanalsperrung zu bestimmten Zeiten.
+
+
+Allgemein:
+
+-Musikwiedergabe: Ermögliche das Abspielen von Musik in Sprachkanälen.
+
+-Befehle für Informationen: Biete Befehle an, um Informationen über Benutzer, Server und Kanäle abzurufen.
+
+-Statistik und Aktivitätsverfolgung: Verfolge Aktivitäten und Statistiken im Server, wie die Anzahl der Nachrichten pro Benutzer oder beliebte Themen.
+
+-Erinnerungen: Einrichten von Erinnerungen für Servermitglieder.
+
+-Informationsabfragen: Suchanfragen für Wikipedia, Google, Lexikon usw.
+
+-Befehle zur Unterhaltung: Spaßbefehle wie Witze, Rätsel oder Spiele.
+
+-Wettervorhersage: Abrufen von aktuellen Wetterdaten für verschiedene Orte.
