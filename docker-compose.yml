@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  bot:
+    build: https://github.com/17Trust09/yuuki-kali.git
+    container_name: yuuki-kali-bot
+    restart: unless-stopped
+    env_file:
+      - /mnt/user/appdata/yuuki-kali/.env
+    volumes:
+      - /mnt/user/appdata/yuuki-kali/data:/app/data
