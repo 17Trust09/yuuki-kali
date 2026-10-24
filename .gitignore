@@ -1,0 +1,13 @@
+# Laufzeitdaten und Datenbanken gehoeren nicht ins Repo
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.log
+
+# Python-Build-Artefakte
+__pycache__/
+*.py[cod]
+
+# lokale Zugangsdaten
+.env
